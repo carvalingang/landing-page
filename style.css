@@ -53,7 +53,7 @@ body {
     justify-content: space-around;
 }
 
-.conteudo-1-text{
+.conteudo-1-texto{
     font-family: 'Karla', sans-serif;
     display: flex;
     flex-direction: column;
@@ -95,7 +95,7 @@ body {
     justify-content: space-around;
 }
 
-.conteudo-2-text{
+.conteudo-2-texto{
     font-size: 20px;
     font-family: 'Karla', sans-serif;
     display: flex;
